@@ -1,5 +1,11 @@
-Walk the dog
-Bake a cake
-Eat some pizza
-Write an important email
-Call my grandparents
+[ ] Walk the dog
+[ ] Bake a cake
+[ ] Eat some pizza
+[ ] Write an important email
+[ ] Call my grandparents
+[ ] eat chicken
+[ ] text adry
+[ ] get lunch with Jesse
+[ ] ask Gordon for help
+[ ] buy eggs
+[ ] brew tea
